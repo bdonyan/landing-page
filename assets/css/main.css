@@ -1620,7 +1620,22 @@ input, select, textarea {
 			#main article {
 				padding: 3rem 1.5rem 0.5rem 1.5rem ;
 			}
+		}
 
+		.project-content {
+			display: flex;
+			align-items: flex-start;
+			justify-content: space-between;
+		}
+		
+		.project-content img {
+			width: 40%;
+			margin-left: 20px;
+			border-radius: 8px;
+		}
+		
+		.project-content p {
+			width: 55%;
 		}
 
 /* Footer */
