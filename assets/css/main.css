@@ -1298,6 +1298,15 @@ input, select, textarea {
 			border-radius: 100%;
 		}
 
+		.logo img {
+			width: 60px; /* Adjust the size as needed */
+			height: 60px; /* Ensure the height is equal to the width for a circle */
+			object-fit: cover; /* This ensures the image covers the circle area */
+			transform: translateY(25%)
+			/* border-radius: 50%; This makes the image circular */
+			/* border: 2px solid white; Optional: Add a border if you want */
+		}
+
 			#header .logo .icon:before {
 				font-size: 2rem;
 			}
