@@ -28,7 +28,7 @@ I have set up a custom domain (www.brandonyan.com) for this site using Cloudflar
 
 ## Usage
 
-You can visit my portfolio at [www.brandonyan.com](http://www.brandonyan.com).
+You can visit my portfolio at [www.brandonvyan.com](http://www.brandovnyan.com).
 
 ## Contact
 
