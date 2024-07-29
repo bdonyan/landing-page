@@ -8,7 +8,7 @@ This is my personal portfolio website where I showcase my projects, resume, and 
 
 ## Custom Domain Setup
 
-I have set up a custom domain (www.brandonyan.com) for this site using Cloudflare for DNS management. Below are the steps I followed:
+I have set up a custom domain (www.brandonvyan.com) for this site using Cloudflare for DNS management. Below are the steps I followed:
 
 1. **Cloudflare DNS Settings**:
    - **CNAME Record**: 
